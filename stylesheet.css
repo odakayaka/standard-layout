@@ -61,6 +61,7 @@ a:link, a:visited, a:hover, a:active{
 	color: #666;
 	font-size: 1.3rem;
 	letter-spacing: 1px;
+    transition: 0.15s;
 }
 .global-nav .nav-item.active a,
 .global-nav .nav-item a:hover{
