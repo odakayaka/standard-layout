@@ -65,8 +65,9 @@ a:link, a:visited, a:hover, a:active{
 
 .global-nav .nav-item.active a,
 .global-nav .nav-item a:hover{
- 	background-color: #D03C56;
- 	color: #ffffff;
+	background-color: #D03C56;
+	color: #ffffff;
+	transition: 0.15s;
 }
 
 .wrapper{
@@ -132,8 +133,6 @@ a:link, a:visited, a:hover, a:active{
 	display: none;
 }
 
-
-
 .sidemenu{
 	float:right;
 	width:275px;
@@ -141,7 +140,6 @@ a:link, a:visited, a:hover, a:active{
 .footer{
 	width:100%;
 }
-
 
 /*--clearfix--*/
 
